@@ -1,0 +1,3979 @@
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        'user-agent': 'PostmanRuntime/7.36.1',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '06cb9a4c-e925-420b-b983-cc3d3340af4b',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 2
+  },
+  level: 'error',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-16T13:08:13.121Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        'user-agent': 'PostmanRuntime/7.36.1',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '65822cef-ddbd-4b88-8a95-503ea2ff8716',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 23
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-16T14:06:17.950Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        'user-agent': 'PostmanRuntime/7.36.1',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': 'a90f1698-7a8e-4dd5-b4e2-5c10dfd57ba4',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 23
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-16T14:07:28.387Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        'user-agent': 'PostmanRuntime/7.36.1',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': 'a88ed46b-14ee-4d09-9c70-0bd64f653f70',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 21
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-16T14:08:24.406Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        host: '127.0.0.1:49300',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 61
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-19T13:50:02.832Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        host: '127.0.0.1:49303',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-19T13:50:02.847Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        host: '127.0.0.1:49305',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-19T13:50:02.853Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: '127.0.0.1:49307',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '48',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 126
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-02-19T13:50:03.000Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: '127.0.0.1:49309',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '48',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 112
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-02-19T13:50:03.119Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: '127.0.0.1:49311',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '12',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-02-19T13:50:03.125Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: '127.0.0.1:49313',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '40',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 108
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-02-19T13:50:03.238Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: '127.0.0.1:49315',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '86',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 124
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-02-19T13:50:03.368Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: '127.0.0.1:49318',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '86',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-02-19T13:50:03.376Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/changePassword',
+      headers: {
+        host: '127.0.0.1:49320',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '70',
+        connection: 'close'
+      },
+      method: 'PATCH',
+      httpVersion: '1.1',
+      originalUrl: '/customer/changePassword',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 246
+  },
+  level: 'info',
+  message: 'HTTP PATCH /customer/changePassword',
+  timestamp: '2024-02-19T13:50:03.627Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/changePassword',
+      headers: {
+        host: '127.0.0.1:49322',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '77',
+        connection: 'close'
+      },
+      method: 'PATCH',
+      httpVersion: '1.1',
+      originalUrl: '/customer/changePassword',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 150
+  },
+  level: 'warn',
+  message: 'HTTP PATCH /customer/changePassword',
+  timestamp: '2024-02-19T13:50:03.782Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        host: '127.0.0.1:49324',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '49',
+        connection: 'close'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 114
+  },
+  level: 'warn',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-02-19T13:50:03.903Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        host: '127.0.0.1:49326',
+        'accept-encoding': 'gzip, deflate',
+        'content-type': 'application/json',
+        'content-length': '45',
+        connection: 'close'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 117
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-02-19T13:50:04.025Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': 'c3d48c4f-72dc-4d83-b763-f697564422c7',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 37
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-19T13:51:52.731Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '8a676600-2166-4f26-b950-87a9e083f559',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '65'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 127
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-02-19T13:52:08.617Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '7f40bc75-2b77-4dbb-8ab9-e0996bac575b',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '64'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 113
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-02-19T13:52:15.363Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '655bc7dc-500c-498b-b894-e65a3bcafeae',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '116'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 128
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-02-19T13:52:22.181Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': 'ee8060a5-cd94-4098-80e1-b60c48663180',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '65'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 126
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-02-19T13:52:26.999Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/changePassword',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '39fea1da-d9a0-4a42-9dde-28545e328843',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '93'
+      },
+      method: 'PATCH',
+      httpVersion: '1.1',
+      originalUrl: '/customer/changePassword',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 234
+  },
+  level: 'info',
+  message: 'HTTP PATCH /customer/changePassword',
+  timestamp: '2024-02-19T13:52:32.226Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/changePassword',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '0c3cdbf9-4743-4963-ac3b-0011d833d187',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '93'
+      },
+      method: 'PATCH',
+      httpVersion: '1.1',
+      originalUrl: '/customer/changePassword',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 231
+  },
+  level: 'info',
+  message: 'HTTP PATCH /customer/changePassword',
+  timestamp: '2024-02-19T13:52:41.159Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '4f9639b4-6208-42b8-a089-d21d791c3a42',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '116'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 123
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-02-19T13:52:47.873Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': 'b68b70e7-b538-4a84-ba17-74ee570d146f',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '116'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-02-19T13:52:51.002Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': 'eaddd66c-8d09-451b-9e55-f507f448ab19',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '65'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 125
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-02-19T13:53:11.604Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '8625bf08-d4d3-4447-9368-8c849e26cda7',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 45
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-21T13:38:23.218Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/alla',
+      headers: {
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '06243fbf-23c0-4e31-b6b1-73163c617758',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/alla',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'warn',
+  message: 'HTTP GET /customer/alla',
+  timestamp: '2024-02-21T13:38:30.907Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '28d8d74b-02c3-4826-8f95-fe1110c126b4',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-21T13:38:35.383Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-02-21T13:39:20.326Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer',
+  timestamp: '2024-03-05T12:11:42.015Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:15:48.576Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:15:51.944Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"d4-YZ5MEm0Rg3x2TVTZBjNtKtRtqlM"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:18:44.356Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"de-Hg7NQecKtKodCXlWUmsopb1FSDg"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:18:47.122Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"3b6-uZoPVFAfK/XdzJ9WAcKpi1YKUHY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:19:39.629Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40f-RVk+S0A91qXt9W5suXaHwdCUZiI"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 7
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:19:51.999Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"d4-YZ5MEm0Rg3x2TVTZBjNtKtRtqlM"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:19:52.697Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-A2WCQSMvjBEsO0j4JGYfEbd3TX4"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:20:36.289Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"d4-YZ5MEm0Rg3x2TVTZBjNtKtRtqlM"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:20:36.913Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-A2WCQSMvjBEsO0j4JGYfEbd3TX4"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:20:38.474Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2cd-qq3WoFxF4+QBJ2YTN3lklyGXKoI"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:20:39.040Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-A2WCQSMvjBEsO0j4JGYfEbd3TX4"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:20:39.897Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2cd-qq3WoFxF4+QBJ2YTN3lklyGXKoI"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:27:31.428Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-A2WCQSMvjBEsO0j4JGYfEbd3TX4"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:27:32.197Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d6-GsCPL911xdQlaCW1MSaki11Y4ug"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:27:32.762Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"404-qt9z44u3XSATU93oPpM87ohXung"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:27:33.764Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '64',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/customer/register',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/customer/register',
+  timestamp: '2024-03-05T12:28:33.083Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '64',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/customer/register',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 13
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/customer/register',
+  timestamp: '2024-03-05T12:29:01.380Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"404-qt9z44u3XSATU93oPpM87ohXung"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 7
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:29:04.063Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d6-GsCPL911xdQlaCW1MSaki11Y4ug"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:29:21.264Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"3fc-ycktR0Xjcltaa/Clme1Dk12Awwo"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:29:21.966Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"3fc-ycktR0Xjcltaa/Clme1Dk12Awwo"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:29:47.449Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"405-8ju7EMi5+zfX8bDC9oG+zVOuUsc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 7
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:30:09.520Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"405-8ju7EMi5+zfX8bDC9oG+zVOuUsc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:30:48.784Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"405-8ju7EMi5+zfX8bDC9oG+zVOuUsc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:31:19.276Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"405-8ju7EMi5+zfX8bDC9oG+zVOuUsc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 10
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:31:57.282Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:33:15.346Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2cb-Mrz1KMnCWLOyl9mF+6GapFSutus"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:33:17.541Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40e-TzY7f3vdeX33jrDF+XjCeAGdYnQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:33:18.244Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d4-dEl1xlDjB2EEPjWEP+8Wh/oKJho"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:33:19.308Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40e-TzY7f3vdeX33jrDF+XjCeAGdYnQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:33:19.755Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d4-dEl1xlDjB2EEPjWEP+8Wh/oKJho"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:33:20.556Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40e-TzY7f3vdeX33jrDF+XjCeAGdYnQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:33:20.851Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40e-TzY7f3vdeX33jrDF+XjCeAGdYnQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:33:29.722Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d4-dEl1xlDjB2EEPjWEP+8Wh/oKJho"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:33:30.772Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40e-TzY7f3vdeX33jrDF+XjCeAGdYnQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:33:31.402Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d1-jVYutXla9W3947lIX0kGauXevVQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:33:32.423Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40e-TzY7f3vdeX33jrDF+XjCeAGdYnQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:33:33.628Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40e-TzY7f3vdeX33jrDF+XjCeAGdYnQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:33:48.601Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 7
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:35:29.418Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d1-jVYutXla9W3947lIX0kGauXevVQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:35:32.484Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-jHiVDNMfoB/VC7NPEwebn5FDtNY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:35:33.201Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-jHiVDNMfoB/VC7NPEwebn5FDtNY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:38:26.288Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-jHiVDNMfoB/VC7NPEwebn5FDtNY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:38:56.054Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '35',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 33
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-05T12:39:38.042Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '35',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 2
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-05T12:39:56.954Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-jHiVDNMfoB/VC7NPEwebn5FDtNY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:40:12.352Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '35',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 40
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-05T12:40:39.168Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-jHiVDNMfoB/VC7NPEwebn5FDtNY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:40:41.742Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-jHiVDNMfoB/VC7NPEwebn5FDtNY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:41:59.189Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"414-jHiVDNMfoB/VC7NPEwebn5FDtNY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:42:37.141Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '35',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 45
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-03-05T12:42:40.257Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '41',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 197
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-03-05T12:43:05.529Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '68fb0131-9672-48f1-9f54-ff9c11c08369',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '65'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 174
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-03-05T12:44:00.834Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:44:09.093Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '65',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 119
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-03-05T12:44:18.105Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': 'b9881e7d-e979-4fdc-9641-8337a99f1b1d',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '65'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 152
+  },
+  level: 'warn',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-03-05T12:45:30.917Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '987dd915-8958-4236-b43e-afb560a00d1f',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '60'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 131
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-03-05T12:45:39.114Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:45:44.694Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '65',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 127
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-03-05T12:45:53.098Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '26370f7b-129e-48eb-a361-c1fd577b9693',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '60'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 125
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-03-05T12:46:00.600Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T12:46:32.231Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d1-jVYutXla9W3947lIX0kGauXevVQ"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:46:33.321Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '40',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 110
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-05T12:46:36.998Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T12:46:39.293Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '41',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 109
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-05T12:46:41.979Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '41',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 2
+  },
+  level: 'warn',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-05T12:46:48.951Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T16:17:00.369Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d5-j+Lk5aPnqLIPwIf8oF4DI13KOUc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T16:17:09.537Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40b-G902PlMI9YD7mycek1fBsYw397I"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T16:17:11.104Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d5-j+Lk5aPnqLIPwIf8oF4DI13KOUc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T16:17:20.809Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40b-G902PlMI9YD7mycek1fBsYw397I"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T16:17:22.026Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d5-j+Lk5aPnqLIPwIf8oF4DI13KOUc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T16:17:23.457Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40b-G902PlMI9YD7mycek1fBsYw397I"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T16:17:32.962Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40b-G902PlMI9YD7mycek1fBsYw397I"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T17:17:08.391Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"2d5-j+Lk5aPnqLIPwIf8oF4DI13KOUc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-05T17:17:10.485Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'if-none-match': 'W/"40b-G902PlMI9YD7mycek1fBsYw397I"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-05T17:17:12.602Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28',
+        'if-none-match': 'W/"2d5-j+Lk5aPnqLIPwIf8oF4DI13KOUc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-06T11:11:05.526Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28',
+        'if-none-match': 'W/"40b-G902PlMI9YD7mycek1fBsYw397I"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-06T11:11:09.744Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28',
+        'if-none-match': 'W/"2d5-j+Lk5aPnqLIPwIf8oF4DI13KOUc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-06T11:11:12.829Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP GET /customer/',
+  timestamp: '2024-03-06T11:11:16.369Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/all',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 44
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/all',
+  timestamp: '2024-03-06T11:11:19.114Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP GET /customer/',
+  timestamp: '2024-03-06T11:11:24.641Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28',
+        'if-none-match': 'W/"2d5-j+Lk5aPnqLIPwIf8oF4DI13KOUc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-06T11:12:55.551Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28',
+        'if-none-match': 'W/"40b-G902PlMI9YD7mycek1fBsYw397I"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-06T11:12:57.833Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28',
+        'if-none-match': 'W/"40b-G902PlMI9YD7mycek1fBsYw397I"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-06T11:16:24.015Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '71',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 182
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-03-06T11:16:35.775Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '3f21002e-0882-4268-a19e-09bcde687489',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '66'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 128
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-03-06T11:17:03.572Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 7
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/register',
+  timestamp: '2024-03-06T11:17:29.007Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '71',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 302 },
+    responseTime: 193
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-03-06T11:17:32.764Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': 'd1d1c7af-3a5c-49ff-930c-fb2dfc3a7e59',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '66'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 176
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-03-06T11:17:53.017Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/register',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '71',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/register',
+      query: {}
+    },
+    res: { statusCode: 302 },
+    responseTime: 123
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/register',
+  timestamp: '2024-03-06T11:18:01.942Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        referer: 'http://localhost:8080/customer/register',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3At7h1YZu79crPE8w0ZPn46Cj9csgnNhM4.shEPI0PHSy65Ui97Zr7GmydUZTecSuhShBdJFJa2w28',
+        'if-none-match': 'W/"2d5-j+Lk5aPnqLIPwIf8oF4DI13KOUc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-06T11:18:01.950Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/delete',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.36.3',
+        accept: '*/*',
+        'cache-control': 'no-cache',
+        'postman-token': '7b6045f6-4c6a-4e8e-b501-b72d74ba83ce',
+        host: 'localhost:8080',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '66'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/customer/delete',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 125
+  },
+  level: 'info',
+  message: 'HTTP DELETE /customer/delete',
+  timestamp: '2024-03-06T11:18:09.203Z'
+}
