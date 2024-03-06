@@ -20,10 +20,10 @@ router.use(express.urlencoded({ extended: false }))
 
 router.get("/all", getAllCustomers);
 
-router.get("/login", (request, response) => { response.render("login.ejs")})
+router.get("/login", (request, response) => { response.render("login.ejs") })
 router.post("/login", authenticateCustomer);
 
-router.get("/register", (request, response) => { response.render("register.ejs")})
+router.get("/register", (request, response) => { response.render("register.ejs") })
 router.post("/register", registerCustomer);
 
 router.patch("/changePassword", changeCustomerPassword);

@@ -4,6 +4,7 @@ import customerRoute from "./routes/customer.js"
 const app = express();
 
 app.use("/customer", customerRoute);
+app.use(express.urlencoded( { extended: false } ))
 
 app.set("view-engine", "ejs");
 
