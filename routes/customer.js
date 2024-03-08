@@ -52,8 +52,10 @@ router.post("/login", checkNotAuthenticated, passport.authenticate("local", {
 router.get("/register", checkNotAuthenticated, (request, response) => { response.render("register.ejs") })
 router.post("/register", checkNotAuthenticated, registerCustomer);
 
+router.get("/settings", checkAuthenticated, (request, response) => { response.render("settings.ejs")})
+
 router.patch("/changePassword", changeCustomerPassword);
-router.delete("/delete", deleteCustomer);
+router.post("/delete", deleteCustomer);
 
 router.post("/logout", logCustomerOut)
 export default router

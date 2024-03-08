@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Settings</title>
 </head>
 <body>
     
-    <h1> Hello </h1>
-
-    <form action="/customer/settings" method="get">
-        <button type="submit">Settings</button>
+    <form action="/customer/logout" method="POST">
+        <input type="hidden" name="_method" value="DELETE">
+        <button type="submit">Log Out</button>
     </form>
 
 </body>
