@@ -30629,3 +30629,437 @@
   message: 'HTTP GET /customer/',
   timestamp: '2024-03-08T14:59:10.787Z'
 }
+{
+  meta: {
+    req: {
+      url: '/customer/',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3A2vjkMTxMZ59Ehnyj9HL7xmdGoxzp1PJf.Ve2XcFj3dBZR4rLAlzIbKbLqCjMGR5treGhKAbNDoZI',
+        'if-none-match': 'W/"19f-ECQ3nE/6YY81O+sLmjtxPz82Tag"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/',
+      query: {}
+    },
+    res: { statusCode: 302 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/',
+  timestamp: '2024-03-08T15:04:02.000Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3A2vjkMTxMZ59Ehnyj9HL7xmdGoxzp1PJf.Ve2XcFj3dBZR4rLAlzIbKbLqCjMGR5treGhKAbNDoZI'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-08T15:04:02.014Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '42',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3ALUDMEEteazGNAntTYzIOsKlZZS3mAp8Q.blbpRO47FRQ5JaxjzBGnSEpDqb7ozUdRI6XLiwHdp7A'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 302 },
+    responseTime: 164
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-08T15:04:05.867Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3ALUDMEEteazGNAntTYzIOsKlZZS3mAp8Q.blbpRO47FRQ5JaxjzBGnSEpDqb7ozUdRI6XLiwHdp7A'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-08T15:04:05.873Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '42',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3ALUDMEEteazGNAntTYzIOsKlZZS3mAp8Q.blbpRO47FRQ5JaxjzBGnSEpDqb7ozUdRI6XLiwHdp7A'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 302 },
+    responseTime: 110
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-08T15:04:11.233Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3ALUDMEEteazGNAntTYzIOsKlZZS3mAp8Q.blbpRO47FRQ5JaxjzBGnSEpDqb7ozUdRI6XLiwHdp7A'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-08T15:04:11.239Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '43',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3ALUDMEEteazGNAntTYzIOsKlZZS3mAp8Q.blbpRO47FRQ5JaxjzBGnSEpDqb7ozUdRI6XLiwHdp7A'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 302 },
+    responseTime: 109
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-08T15:04:14.909Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3ALUDMEEteazGNAntTYzIOsKlZZS3mAp8Q.blbpRO47FRQ5JaxjzBGnSEpDqb7ozUdRI6XLiwHdp7A'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-08T15:04:14.913Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '42',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3ALUDMEEteazGNAntTYzIOsKlZZS3mAp8Q.blbpRO47FRQ5JaxjzBGnSEpDqb7ozUdRI6XLiwHdp7A'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 302 },
+    responseTime: 110
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/login',
+  timestamp: '2024-03-08T15:04:20.568Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        referer: 'http://localhost:8080/customer/login',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3A7OuaGxHCxhGuMh7g88LXtYnl96LkG9Wt.Qp6oXzho99nIezg2NeHDEbBn4jMcbgiHColT%2FWAbRbI'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/',
+  timestamp: '2024-03-08T15:04:20.574Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/logout',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'content-length': '14',
+        'cache-control': 'max-age=0',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        origin: 'http://localhost:8080',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        referer: 'http://localhost:8080/customer/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3A7OuaGxHCxhGuMh7g88LXtYnl96LkG9Wt.Qp6oXzho99nIezg2NeHDEbBn4jMcbgiHColT%2FWAbRbI'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/customer/logout',
+      query: {}
+    },
+    res: { statusCode: 302 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP POST /customer/logout',
+  timestamp: '2024-03-08T15:04:22.469Z'
+}
+{
+  meta: {
+    req: {
+      url: '/customer/login',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'sec-ch-ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        referer: 'http://localhost:8080/customer/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-GB,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        cookie: 'connect.sid=s%3ANcfsJwtNwkECLUYDm1fASguDnAM4q782.VFOju%2FDDfvMOnIwtfROiMiKgZHem1z5QhUzcsplvihA'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/customer/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP GET /customer/login',
+  timestamp: '2024-03-08T15:04:22.474Z'
+}
