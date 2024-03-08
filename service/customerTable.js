@@ -31,3 +31,10 @@ export async function deleteCustomerByEmail(email) {
 
     await pool.query("DELETE from customers WHERE email = (?);", [email]);
 }
+
+export async function queryCustomerById(id) { 
+
+    const [row] = await pool.query(`SELECT * FROM customers WHERE id = (?)`, [id])
+
+    return row[0]
+}

@@ -1,5 +1,5 @@
 import expressWinston from "express-winston"
-import winston, { format, transports } from "winston";
+import { format, transports } from "winston";
 
 export const logWarnings = (expressWinston.logger({
 

@@ -8,7 +8,8 @@ import {
     queryCustomerByEmail,
     createCustomer,
     updatePassword,
-    deleteCustomerByEmail
+    deleteCustomerByEmail,
+    queryCustomerById
 
 } from "../service/customerTable.js"
 
@@ -25,22 +26,22 @@ export const getAllCustomers = async (request, response) => {
     return response.status(200).json({ "status":"success", allCustomers }).end();
 }
 
-export const authenticateCustomer = async (request, response) => { 
+export const authenticateCustomer = async (email, password, done) => { 
 
-    const customer = await queryCustomerByEmail(request.body.email);
+    const customer = await queryCustomerByEmail(email);
 
     if (customer == undefined) {
-        response.status(400).json({"status":"failure", "reason":"Account Does Not Exist", customer}).end();
-
-        return;
+        // response.status(400).json({"status":"failure", "reason":"Account Does Not Exist", customer}).end();
+        return done(null, false, {message: "Account Does Not Exist"});
         
     }
-    if (!await bcrypt.compare(request.body.password, customer.password)) {
-        response.status(400).json({"status":"failure", "reason":"Password Does Not Match", customer}).end();
-        return;
+    if (!await bcrypt.compare(password, customer.password)) {
+        // response.status(400).json({"status":"failure", "reason":"Password Does Not Match", customer}).end();
+        return done(null, false, {message:"Password Does Not Match"});
     }
 
-    return response.status(200).json({ "status": "success", customer}).end()
+    // return response.status(200).json({ "status": "success", customer}).end()
+    return done(null, customer)
 }
 
 export const registerCustomer = async (request, response) => { 
@@ -51,16 +52,14 @@ export const registerCustomer = async (request, response) => {
     const customer = await queryCustomerByEmail(request.body.email);
     
     if (customer !== undefined) {
-        response.redirect("/customer/register")
-        // response.status(400).json({"status":"failure", "reason":"Email is not Unique"}).end();
+        response.status(400).json({"status":"failure", "reason":"Email is not Unique"}).end();
         return;
     }
 
     const hashedPassword = await bcrypt.hash(request.body.password, 10)
     await createCustomer(request.body.email, request.body.firstName, request.body.lastName, hashedPassword)    
 
-    response.redirect("/customer/login")
-    // return response.status(200).json({ "status":"success", "customer": { "email": request.body.email, "firstName": request.body.firstName, "lastName": request.body.lastName, "password": hashedPassword} }).end();
+    return response.status(200).json({ "status":"success", "customer": { "email": request.body.email, "firstName": request.body.firstName, "lastName": request.body.lastName, "password": hashedPassword} }).end();
 }
 
 export const changeCustomerPassword = async (request, response) => { 
@@ -91,3 +90,25 @@ export const deleteCustomer = async (request, response) => {
 
     return response.status(200).json({ "status":"success", customer}).end();
 }
+
+export const checkAuthenticated = (request, response, next) => { 
+
+    if (request.isAuthenticated()) { 
+        return next();
+    }
+    response.redirect("/customer/login")
+}
+
+export const checkNotAuthenticated = (request, response, next) => { 
+
+    if (request.isAuthenticated()) { 
+        response.redirect("/customer/")
+    }
+    next();
+}
+
+export const logCustomerOut = (request, response) => {
+    request.logout(function(err) {
+        response.redirect("/customer/login");
+    });
+};
