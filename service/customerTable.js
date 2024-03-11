@@ -12,7 +12,7 @@ export async function queryAllCustomers() {
 
 export async function queryCustomerByEmail(email) {
     
-    const [row] = await pool.query(`SELECT email, password FROM customers WHERE email = (?);`, [email]);
+    const [row] = await pool.query(`SELECT id, email, password FROM customers WHERE email = (?);`, [email]);
 
     return row[0];
 }
@@ -35,6 +35,8 @@ export async function deleteCustomerByEmail(email) {
 export async function queryCustomerById(id) { 
 
     const [row] = await pool.query(`SELECT * FROM customers WHERE id = (?)`, [id])
+
+    console.log(row[0])
 
     return row[0]
 }
