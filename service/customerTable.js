@@ -36,7 +36,5 @@ export async function queryCustomerById(id) {
 
     const [row] = await pool.query(`SELECT * FROM customers WHERE id = (?)`, [id])
 
-    console.log(row[0])
-
     return row[0]
 }

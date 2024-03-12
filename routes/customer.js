@@ -54,7 +54,7 @@ router.post("/register", checkNotAuthenticated, registerCustomer);
 
 router.get("/settings", checkAuthenticated, (request, response) => { response.render("settings.ejs")})
 
-router.patch("/changePassword", checkAuthenticated, changeCustomerPassword);
+router.post("/changePassword", checkAuthenticated, changeCustomerPassword);
 router.post("/delete", checkAuthenticated, deleteCustomer)
 
 router.post("/logout", logCustomerOut)

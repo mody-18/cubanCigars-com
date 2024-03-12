@@ -13,8 +13,19 @@
     </form>
 
     <form action="/customer/delete" method="POST">
+        <label>Password: </label>
         <input type="password" name="password">
         <button type="submit">Delete Account</button>
+    </form>
+
+    <form action="/customer/changePassword" method="POST">
+        <label>Current Password: </label>
+        <input type="password" name="password">
+        <label>New Password: </label>
+        <input type="password" name="newPassword">
+        <label>Confirm New Password: </label>
+        <input type="password" name="confirmNewPassword">
+        <button type="submit">Change Password</button>
     </form>
 
 </body>
