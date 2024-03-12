@@ -2,7 +2,6 @@
 
 import bcrypt from "bcryptjs";
 
-
 import {
 
     queryAllCustomers,
@@ -41,7 +40,7 @@ export const registerCustomer = async (request, response) => {
     const customer = await queryCustomerByEmail(request.body.email);
     
     if (customer !== undefined) {
-        response.status(400).json({status: "error", error_code:404, message:"Email is not Unique"}).end();
+        response.status(400).json({status: "error", error_code: 404, message:"Email is not Unique"}).end();
         return;
     }
 
@@ -91,6 +90,32 @@ export const deleteCustomer = async (request, response) => {
         response.redirect("/customer/login");
     });
     
+}
+
+export const renderLoginEJS = async (request, response) => {
+
+    response.render("login.ejs") 
+        
+}
+
+export const renderIndexEJS = async (request, response) => {
+    
+    const name = (await request.user).firstName + " " +  (await request.user).lastName;
+    
+    response.render("index.ejs", { name: name })
+    
+}
+
+export const renderRegisterEJS = async (request, response) => { 
+        
+    response.render("register.ejs")
+
+}
+
+export const renderSettingsEJS = async (request, response) => {
+    
+    response.render("settings.ejs")
+
 }
 
 export const checkAuthenticated = (request, response, next) => { 

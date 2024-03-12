@@ -18,6 +18,11 @@ import {
     checkAuthenticated,
     checkNotAuthenticated,
     logCustomerOut,
+    
+    renderIndexEJS,
+    renderRegisterEJS,
+    renderSettingsEJS,
+    renderLoginEJS,
 
 } from "../controllers/customerController.js";
 
@@ -38,21 +43,21 @@ router.use(methodOverride("_method"));
 
 initializePassport(passport)
 
-router.get("/all", getAllCustomers);
+router.get("/all", checkAuthenticated, getAllCustomers);
 
-router.get("/", checkAuthenticated, (request, response) => { response.render("index.ejs") })
+router.get("/", checkAuthenticated, renderIndexEJS)
 
-router.get("/login", checkNotAuthenticated, (request, response) => { response.render("login.ejs") })
+router.get("/login", checkNotAuthenticated, renderLoginEJS)
 router.post("/login", checkNotAuthenticated, passport.authenticate("local", {
     successRedirect: "/customer/",
     failureRedirect: "/customer/login",
     failureFlash: true
 }));
 
-router.get("/register", checkNotAuthenticated, (request, response) => { response.render("register.ejs") })
+router.get("/register", checkNotAuthenticated, renderRegisterEJS)
 router.post("/register", checkNotAuthenticated, registerCustomer);
 
-router.get("/settings", checkAuthenticated, (request, response) => { response.render("settings.ejs")})
+router.get("/settings", checkAuthenticated, renderSettingsEJS)
 
 router.post("/changePassword", checkAuthenticated, changeCustomerPassword);
 router.post("/delete", checkAuthenticated, deleteCustomer)
