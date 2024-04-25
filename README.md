@@ -1,3 +1,5 @@
+During my spare time as a 1st year at The University Of Leicester I self taught Javascript and then Node js with Express js. Once I learnt these technologies I've created a backend web application built around cigars.
+
 With Node & Express JS I've managed to:
 
 - Allow the user, known as the customer, to register an account
@@ -25,3 +27,4 @@ With Node & Express JS I've managed to:
 
 ![Screenshot 2024-04-25 145551](https://github.com/mody-18/cubanCigars-com/assets/99497021/ba30d715-bcce-4e6b-b8ff-a42608c8c5b1)
 
+The frontend of the web application was built in collaboration with {name}. 
