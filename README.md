@@ -2,6 +2,8 @@
 
 ![Screenshot 2024-04-25 145513](https://github.com/mody-18/cubanCigars-com/assets/99497021/b978f1d9-2a42-451c-b402-87b5c8511eed)
 
+![image](https://github.com/mody-18/cubanCigars-com/assets/99497021/7df561dc-e118-439b-9d5d-1eaba9382e47)
+
 ![image](https://github.com/mody-18/cubanCigars-com/assets/99497021/f3d4414e-78f0-47ff-803c-e3fb44bdf444)
 
 ![Screenshot 2024-04-25 145533](https://github.com/mody-18/cubanCigars-com/assets/99497021/54bace2a-d386-4f71-bc04-ca341ffe6285)
