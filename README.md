@@ -1,14 +1,14 @@
 With Node & Express JS I've managed to:
 
-Allow the user, known as the customer, to register an account
-Allow the user to log in and stay logged in using passport module
-Store user details within mySQL database
-Store the users password using a password-hashing algorithm known as bcryptjs within the DB
-Incorporate JUnit testing with supertest
-Incorporate Logging with Winston
-Allow the user to delete its account
-Allow the user to change its accounts password
-Allow the user log out of its account
+- Allow the user, known as the customer, to register an account
+- Allow the user to log in and stay logged in using passport module
+- Store user details within mySQL database
+- Store the users password using a password-hashing algorithm known as bcryptjs within the DB
+- Incorporate JUnit testing with supertest
+- Incorporate Logging with Winston
+- Allow the user to delete its account
+- Allow the user to change its accounts password
+- Allow the user log out of its account
 
 ![Screenshot 2024-04-25 145451](https://github.com/mody-18/cubanCigars-com/assets/99497021/52fdc2da-c103-40d7-bdd3-8fd364a30f9a)
 
