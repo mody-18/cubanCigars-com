@@ -10,6 +10,7 @@ With Node & Express JS I've managed to:
 - Allow the user to change its accounts password
 - Allow the user log out of its account
 
+
 ![Screenshot 2024-04-25 145451](https://github.com/mody-18/cubanCigars-com/assets/99497021/52fdc2da-c103-40d7-bdd3-8fd364a30f9a)
 
 ![Screenshot 2024-04-25 145513](https://github.com/mody-18/cubanCigars-com/assets/99497021/b978f1d9-2a42-451c-b402-87b5c8511eed)
