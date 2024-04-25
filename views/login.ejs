@@ -1,33 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/login.css"> <!-- Corrected path -->
+        <title>Login</title>
+    </head>
 <body>
+    <div class="cigarLogo"><img src="/images/Cuban Cigars_transparent.png" alt=""></div>
+
    
-    <h1>Login</h1>
+    <form id="loginForm" action="/customer/login" method="post"> 
+        <div class="loginContent">
+            <div class="header">
+                <header>Login</header>
 
-    <% if (messages.error) { %>
-        <%= messages.error %>
-    <% } %>
-
-    <form action="/customer/login" method="POST">
-            <div>
-
-                <label for="email">Email: </label>
-                <input type="text" id="email" name="email" required><br>
-                
-                <label for="password">Password: </label>
-                <input type="password" id="password" name="password" required>
+                <% if (messages.error) { %>
+                    <%= messages.error %>
+                <% } %>
 
             </div>
-
-            <button type="submit">Login</button>
+            <div class="inputBox">
+                <input type="text" class="inputField" placeholder="Email" name="email" required>
+            </div>
+            <div class="inputBox">
+                <input type="password" class="inputField" placeholder="Password" name="password" required>
+            </div>
+            <div class="submitButton">
+                <button class="button" id="submit">Login</button>
+            </div>
+            <div class="registerHere">
+                <p>Register Here! <a href="/customer/register">Register</a></p>
+            </div>
+        </div>
     </form>
-
-    <a href="/customer/register">Register</a>
-
 </body>
 </html>

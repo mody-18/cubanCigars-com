@@ -1,36 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/register.css"> <!-- Corrected path -->
+        <title>Registration</title>
+    </head>    
 <body>
+        <div class="cigarLogo"><img src="/images/Cuban Cigars_transparent.png" alt="Cuban Cigars Logo"></div>
+
    
-    <h1>Register</h1>
-
-    <form action="/customer/register" method="POST">
-            <div>
-
-                <label for="email">Email: </label>
-                <input type="text" id="email" name="email" required><br>
-
-                <label for="firstName">First Name: </label>
-                <input type="text" id="firstName" name="firstName" required><br>
+    <form id="registerForm" action="/customer/register" method="POST">
+        <div class="registerContent">
+            <div class="header">
+                <header>Registration</header>
                 
-                <label for="lastName">Last Name: </label>
-                <input type="text" id="lastName" name="lastName" required><br>
-                
-
-                <label for="password">Password: </label>
-                <input type="password" id="password" name="password" required>
-
+                <% if (messages.error) { %>
+                    <%= messages.error %>
+                <% } %>
+            
+            </div>
+            <div class="inputBox">
+                <input type="text" class="inputField" name="email" placeholder="Email" required>
+            </div>
+            <div class="inputBox">
+                <input type="text" class="inputField" name="firstName" placeholder="First Name" required>
+            </div>
+            <div class="inputBox">
+                <input type="text" class="inputField" name="lastName" placeholder="Last Name" required>
+            </div>
+            <div class="inputBox">
+                <input type="password" class="inputField" name="password" placeholder="Password" required>
+            </div>
+            <div class="submitButton">
+                <button class="button" type="submit">Register</button>
             </div>
 
-            <button type="submit">Register</button>
+            <div class="loginHere">
+                <p>Already got an account? <a href="/customer/login">Login Here</a></p>
+            </div>
+        </div>
     </form>
-
-    <a href="/customer/login">Login</a>
-
 </body>
 </html>

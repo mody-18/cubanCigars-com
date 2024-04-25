@@ -3,30 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/settings.css"> <!-- Corrected path -->
     <title>Settings</title>
 </head>
+
 <body>
+
+    <div class="cigarLogo">
+        <a href="/customer/">
+            <img src="/images/Cuban Cigars_transparent.png" alt="Cuban Cigars Logo">
+        </a>
+    </div>
     
-    <form action="/customer/logout" method="POST">
-        <input type="hidden" name="_method" value="DELETE">
-        <button type="submit">Log Out</button>
-    </form>
+    <div class="settingContent">
+        <form id="logoutButton" action="/customer/logout" method="POST">
+            <div class="customerLogout">
+                <input type="hidden" name="_method" value="DELETE">
+                <button type="submit">Log Out</button>
+            </div>
+        </form>
+    
+        <form id="deleteButton" action="/customer/delete" method="POST">
+            <div class="customerDelete">
+                <div class="inputBox">
+                    <input type="password" class="inputField" placeholder="Password:" name="password" required>
+                </div>
+                <div class="accountDelete">
+                    <button type="submit" class="button" id="submit">Delete Account</button>
+                </div>
+            </div>
+        </form>
 
-    <form action="/customer/delete" method="POST">
-        <label>Password: </label>
-        <input type="password" name="password">
-        <button type="submit">Delete Account</button>
-    </form>
+    
+        <form id="credentialChanges" action="/customer/changePassword" method="POST">
+            <div class="customerDetails">
 
-    <form action="/customer/changePassword" method="POST">
-        <label>Current Password: </label>
-        <input type="password" name="password">
-        <label>New Password: </label>
-        <input type="password" name="newPassword">
-        <label>Confirm New Password: </label>
-        <input type="password" name="confirmNewPassword">
-        <button type="submit">Change Password</button>
-    </form>
+                <div class="inputBox">
+                    <input type="password" class="inputField" name="pass" placeholder="Current Password:" required>
+                </div>
 
+                <div class="inputBox">
+                    <input type="password" class="inputField" name="newPassword" placeholder="New Password:" required>
+                </div>
+
+                <div class="inputBox">
+                    <input type="password" class="inputField" name="confirmNewPassword" placeholder="Confirm Password:" required>
+                </div>
+
+                <div class="passwordButton">
+                    <button type="submit" class="button" id="submit">Change Password</button>
+                </div>
+            </div>
+        </form>
+    </div>
 </body>
 </html>

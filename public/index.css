@@ -1,0 +1,185 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    height: 100%;
+}
+
+.nav{
+    padding: 50px 6%;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    align-items: center;
+    z-index: 999;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 18px rgba(0,0,0,0.5);
+}
+
+.menuButton{
+    color: #7e5d3b;
+    cursor: pointer;
+    font-size: 25px;
+    display: none;
+}
+.cigarLogo img {
+    width: 300px; 
+    height: 300px; 
+    filter: grayscale(100%);
+    cursor: pointer;
+    position: absolute; 
+    top: -95px; 
+    left: 10px; 
+}
+
+.nav .navList li{
+    display: inline-block;
+    list-style: none;
+}
+
+.nav .navList li a{
+    margin-left: 18px;
+    display: block;
+    color: #000000;
+    border-bottom: 5px solid transparent;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nav .navList li a i{
+    color: #7e5d3b;
+}
+
+.nav .navList li .active{
+    border-bottom: 5px solid #7e5d3b;
+}
+
+.nav .navList li a:hover{
+    border-bottom: 5px solid #7e5d3b;
+}
+
+.websiteContent {
+    padding: 10px 6%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    height: 80vh; 
+}
+
+
+.websiteContent h1{
+    font-size: 50px;
+    margin-top: 250px;
+}
+
+.websiteContent p{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.websiteContent button{
+    margin-top: 30px;
+    padding: 20px 40px;
+    border: none;
+    background: #7e5d3b;
+    color: #000000;
+    font-size: 25px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.heading{
+    text-align: center;
+    margin: 40px 0;
+    color: #000000;
+}
+
+.main{
+    padding: 10px 6%;
+}
+
+.mainContent{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.products{
+    width: 20%;
+    margin: 15px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+    padding-top: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25);
+    transition: .4s;
+    background: #f2f2f2;
+}
+
+.products:hover{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16),
+    0 3px 6px rgba(0,0,0,0.25);
+    transform: translate(0px, -25px);
+}
+
+.products img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.products p{
+    text-align: center;
+    color: black;
+    padding-top: 0 8px;
+}
+
+.products h6{
+    font-size: 28px;
+    text-align: center;
+    color: #7e5d3b;
+    margin: 0;
+}
+
+.products button{
+    background: #7e5d3b;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+footer{
+    background-color: white;
+    height: 10vh;
+}
+
+footer p{
+    text-align: center;
+    line-height: 10vh;
+}
+
+footer p a{
+    text-decoration: none;
+    color: #7e5d3b;
+    font-weight: bold;
+}

@@ -3,12 +3,15 @@ import customerRoute from "./routes/customer.js"
 
 const app = express();
 
+app.use(express.static('public'));
 app.use("/customer", customerRoute);
+
 
 app.set("view-engine", "ejs");
 
-app.listen(8080, () => {
-    
-    console.log("Server listening on port 8080....")});
+const PORT = process.env.PORT || 8080; 
+app.listen(PORT, () => {
+    console.log(`Server listening on port ${PORT}....`);
+});
 
 export default app

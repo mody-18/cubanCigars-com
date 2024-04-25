@@ -1,7 +1,7 @@
 // All of the available routes
 
-import express, { response } from "express";
-import initializePassport from "../passport-config.js" //
+import express from "express";
+import initializePassport from "../passport-config.js" 
 import passport from "passport"
 import flash from "express-flash";
 import session from "express-session";
