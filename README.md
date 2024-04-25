@@ -28,3 +28,8 @@ With Node & Express JS I've managed to:
 ![Screenshot 2024-04-25 145551](https://github.com/mody-18/cubanCigars-com/assets/99497021/ba30d715-bcce-4e6b-b8ff-a42608c8c5b1)
 
 The frontend of the web application was built in collaboration with {name}. 
+
+Video:
+
+https://github.com/mody-18/cubanCigars-com/assets/99497021/059e4505-aac0-4228-bcaa-7f5e5a11de8e
+
